@@ -32,6 +32,6 @@ I love connecting with others passionate about web development and design! If yo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sandrachambiluque/) 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/sandraChamLuque)
-[Resume](https://drive.google.com/file/d/1rClCQGHE4LVi5qaXd6aLNmg3QxRip9gG/view?usp=share_link)
+[!📝[Resume](https://drive.google.com/file/d/1rClCQGHE4LVi5qaXd6aLNmg3QxRip9gG/view?usp=share_link)]
 
 Thanks for visiting my GitHub profile! I hope you find my work and contributions interesting - let's make the web a better place together!
