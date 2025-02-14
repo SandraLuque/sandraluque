@@ -10,7 +10,7 @@ I'm a self-taught UI Designer + Front-end Developer.  🚀 from Perú.
 - Continuous improvement of my skills and knowledge in web design and development.
   
 ### 💻 My preferred technologies:
-[![Languages](https://skillicons.dev/icons?i=html,css,js,astro,angular,react,materialui,sass,figma,xd,ai)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=astro,react,tailwind,materialui,sass,figma)](https://skillicons.dev)
 
 ### 🌐 How to reach me:
 
